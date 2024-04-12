@@ -1,2 +1,2 @@
 # contador-simples-js
-Feito em Seminários II, Oficina React 
+Primeiro projeto desenvolvido em Seminários II, Oficina React 
